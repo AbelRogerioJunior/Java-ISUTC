@@ -1,0 +1,17 @@
+1- A programação estruturada é um paradigma de programação que surgiu na década de 1960 e que é baseado no conceito de que um programa pode ser dividido em partes menores, chamadas de estruturas, que podem ser organizadas e combinadas de forma hierárquica para resolver um problema.
+
+As estruturas básicas da programação estruturada são a sequência, a seleção e a repetição. A sequência é uma lista de instruções que são executadas uma após a outra. A seleção é usada para fazer escolhas entre duas ou mais opções, dependendo de uma condição lógica. A repetição é usada para repetir um conjunto de instruções várias vezes, até que uma condição lógica seja atendida.
+
+2- Reutilização de código: Os objetos podem ser reutilizados em diferentes partes do código, tornando a programação mais eficiente.
+
+Modularidade: A programação orientada a objetos permite que o código seja organizado em módulos, o que facilita a manutenção e o teste do software.
+
+Encapsulamento: A POO permite o encapsulamento de dados e funcionalidades em objetos, o que melhora a segurança e a privacidade dos dados.
+
+Polimorfismo: A programação orientada a objetos permite que um objeto possa ser usado de diferentes maneiras, dependendo do contexto em que é usado.
+
+Herança: A POO permite que os objetos herdem características e funcionalidades de outros objetos, o que facilita a criação de novos objetos a partir de objetos já existentes.
+
+Facilidade de colaboração: A programação orientada a objetos permite que os desenvolvedores trabalhem em diferentes partes do código, tornando a colaboração mais fácil e eficiente.
+
+ 
