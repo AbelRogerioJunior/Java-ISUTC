@@ -3,14 +3,22 @@ package aula09;
 public class Funcionario {
     private String nome;
     private String numBi;
-    protected double salario;
+    private double salario;
 
+    //Contrutor
+    public Funcionario(String nome, String numBi, double salario) {
+        this.nome = nome;
+        this.numBi = numBi;
+        this.salario = salario;
+    }
 
+    //Metodos
     double bonus(){
-        return this.salario * 0.1;
+        return this.salario * 10/100;
     }
 
 
+    //getter e Setter
     public String getNome() {
         return nome;
     }
