@@ -25,7 +25,7 @@ public class Porta {
         if(estado == true){
             System.out.println("Porta esta Aberta");
         }else{
-            System.out.println("Porta esta Fechada!");
+            System.out.println("Porta esta Fechada!");  
         }
     }
 }

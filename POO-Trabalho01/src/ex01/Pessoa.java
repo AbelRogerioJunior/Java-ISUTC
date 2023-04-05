@@ -17,7 +17,7 @@ public class Pessoa{
         this.quantAniversario= quantAniversario;
     }
 
-   public void detalhes(){
+   public void imprimir(){
         System.out.printf("Id ==> %d \nNome ==> %s \nIdade ==> %d \nQuant. Aniversarios ==> %d",id,nome,idade,quantAniversario);
    }
 }

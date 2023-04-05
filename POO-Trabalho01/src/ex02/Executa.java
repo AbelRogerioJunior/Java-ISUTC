@@ -6,3 +6,6 @@ public class Executa {
         porta1.verEstado();
     }
 }
+
+
+
